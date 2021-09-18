@@ -7,5 +7,19 @@
             "topic": "Javascript",
             "url": "http://faztweb.com"
         },
+        {
+            "id": 1,
+            "title": "Rust programming language",
+            "author": "John Carter",
+            "topic": "Javascript",
+            "url": "http://faztweb.com"
+        },
+        {
+            "id": 1,
+            "title": "Nodejs Course",
+            "author": "John Carter",
+            "topic": "Javascript",
+            "url": "http://faztweb.com"
+        },
     ]
 }
