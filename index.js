@@ -6,12 +6,16 @@ const{ buildSchema } = require("graphql");
 
 const schema = buildSchema("
     type Query {
-        message: string
+        message: String
     }
+
+    
+
 ");
 
 const root = {
     message: () => "hello world"
+
 }
 
 app.use("/graphql", express_graphql({
